@@ -1,0 +1,32 @@
+## 🔎 About Me
+
+Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, Angular, and JavaScript. I've honed my skills through uTest.com's Academy, GoIT marathon, and Navoica's 'Introduction to Software Testing' course. Currently expanding my knowledge in testing and Playwright, I am driven to become a proficient software tester.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-pawlik-59b6a2237/)
+
+## Tools 🔧
+
+- [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
+- [Visual Studio Code](https://code.visualstudio.com/), [Webstorm](https://www.jetbrains.com/webstorm/) - Visual Studio Code and Webstorm is a code editor redefined and optimized for building and debugging modern web
+- [GitHub](https://github.com/ios1111-creator) - A provider of Internet hosting for software development and version control using Git
+- [Figma](https://www.figma.com/) - online interactive design
+- [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
+
+## Tech skills 💻
+
+- **DevTools** knowledge
+- **SQL** knowledge
+- **Creating test cases**
+- **Reporting bugs**
+- **Creating bug reports**
+- **Software testing**
+- **HTML/CSS** basics
+- **Angular/JS** basics
+- **Playwright** basics
+
+## Courses 📓
+
+- [Academy uTest.com](https://www.utest.com/academy)
+- [4-Day Marathon QA - GoIT](https://qa.m.goit.global/pl/)
+- [Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/)
+- [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/course/)
