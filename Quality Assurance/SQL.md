@@ -7,4 +7,4 @@ SELECT * FROM Customers
 WHERE Country NOT IN ('Germany', 'France', 'UK');
 ```
 
-![zadanie 1](E:\Testowanie\PORTFOLIO\Quality Assurance\images\1.png)
+![zadanie 1](SQL 1.png)
