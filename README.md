@@ -36,4 +36,6 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - [SQL](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/SQL.md)
 - [Bug report](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/bug_report.md)
 - [Test cases](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/test_cases.md)
-- [A web application developed using HTML, CSS, and Angular](https://github.com/ios1111-creator/Movies-app/tree/master/src, https://github.com/ios1111-creator/-Best-Quotes-Angular)
+- A web application developed using HTML, CSS, and Angular
+    -[Best-Quotes-Angular](https://github.com/ios1111-creator/-Best-Quotes-Angular)
+    -[Movies-app](https://github.com/ios1111-creator/Movies-app/tree/master/src)
