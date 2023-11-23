@@ -9,7 +9,7 @@ WHERE Country NOT IN ('Germany', 'France', 'UK');
 
 ![SQL 1](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/51a761f7-33af-434d-b09d-c239ab8505f4)
 
-2. Zwróć wszystkich klientów, którzy NIE pochodzą z „Niemiec”, „Francji” ani „Wielkiej Brytanii”:
+2. Zwróć wszystkich klientów, którzy pochodzą z „Niemiec”, „Francji” ani „Wielkiej Brytanii”:
 
 ```sql
 SELECT * FROM Customers
@@ -30,7 +30,8 @@ ADD Email varchar(255);
 4. Zaktualizuj tabele Customers, na first_name 'Jan' i last_name na 'Nowak', wtedy gdy CustomerID jest równy 1
 
 ```sql
-UPDATE Customers SET first_name ='Jan', last_name = 'Nowak' WHERE customer_id = 1
+UPDATE Customers SET first_name ='Jan', last_name = 'Nowak'
+WHERE customer_id = 1
 ```
 
 ![SQL 4](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/62abc2ae-043a-4fd8-a404-677d7b153071)
@@ -73,3 +74,35 @@ FROM Customers;
 ```
 
 # ![SQL 8](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/6d227db3-afdf-4057-8bf6-46155bb8c433)
+
+9. Zwróć wszystkie rekordy z tabeli o nazwie 'Products', gdzie 'Price' znajduje się w kolejności od najmniejszej do najwiekszej pomiędzy 50 i 100?
+
+```sql
+SELECT * FROM Products
+WHERE Price >= 50 AND Price <=100
+ORDER BY Price;
+lub
+SELECT * FROM Products
+WHERE Price BETWEEN 50 AND 100
+ORDER BY Price;
+```
+
+![SQL 9](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/b98dd01f-a560-4463-a980-0b458ea8f8a0)
+
+10. Zwróć wszystkich klientów zaczynających się od „a”, „b”, „c”, „d”, „e”, „f”:
+
+```sql
+SELECT * FROM Customers
+WHERE CustomerName LIKE '[a-f]%';
+```
+
+![SQL 10](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/24800ecc-f972-44c6-92b2-bddc932d5ce8)
+
+11. Zwróć wszystkich klientów, którzy NIE złożyli żadnych zamówień w tabeli Zamówienia:
+
+```sql
+SELECT * FROM Customers
+WHERE CustomerID NOT IN (SELECT CustomerID FROM Orders);
+```
+
+![SQL 11](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/d082c859-1ec7-4258-8516-36c7f9b65271)
