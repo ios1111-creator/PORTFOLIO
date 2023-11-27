@@ -106,3 +106,22 @@ WHERE CustomerID NOT IN (SELECT CustomerID FROM Orders);
 ```
 
 ![SQL 11](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/d082c859-1ec7-4258-8516-36c7f9b65271)
+
+12. Wstaw do tabeli Orders, nowy rekord item headphones i amount 150, dla klienta o id 1:
+
+```sql
+INSERT INTO Orders(item,amount,customer_id)
+VALUES('Headphones','150',1)
+```
+
+![SQL 12](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/7f6d82f5-702a-40f8-8ac2-8c500cea8caa)
+
+13. Połącz kolumnę OrderID, OrderDate z tabeli Orders i kolumnę LastName, FirstName z tabeli Employees, łącząc relacje tak, żeby EmployeeID pasowało do danego rekordu z tabeli Orders i Employees, do tego dodaj z tabeli Shippers kolumny ShipperName, Phone:
+
+```sql
+SELECT Orders.OrderID, Orders.EmployeeID ,Employees.FirstName, Employees.LastName, Orders.OrderDate, Shippers.ShipperName, Shippers.Phone FROM ((Orders
+INNER JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID)
+INNER JOIN Shippers ON Orders.ShipperID = Shippers.ShipperID)
+```
+
+![SQL 13](https://github.com/ios1111-creator/PORTFOLIO/assets/65659662/3c80034b-bba1-4f8e-bffc-c3f33af10755)
