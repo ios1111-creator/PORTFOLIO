@@ -7,7 +7,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 ## Tools 🔧
 
 - [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
-- [Visual Studio Code](https://code.visualstudio.com/), [Webstorm](https://www.jetbrains.com/webstorm/) - Visual Studio Code and Webstorm is a code editor redefined and optimized for building and debugging modern web
+- [Visual Studio Code](https://code.visualstudio.com/), [Webstorm](https://www.jetbrains.com/webstorm/), [IntelliJ](https://www.jetbrains.com/idea/) - Visual Studio Code and Webstorm is a code editor redefined and optimized for building and debugging modern web
 - [GitHub](https://github.com/ios1111-creator) - A provider of Internet hosting for software development and version control using Git
 - [Figma](https://www.figma.com/) - online interactive design
 - [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
