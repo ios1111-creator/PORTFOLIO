@@ -1,12 +1,14 @@
-Test application form
-Nr document:                         1
-Project name::                       Testing the online store
-Task:                                Testing the website with the address: https://askomdch.com/store/                      
-People performing tests:             Adam P
+## Test application form
 
-Tested items:                        Testing the shopping cart function
-Description:                         Testing the website for the ability to add and remove products from the cart.
-Version: 1
+- Nr document:                         1
+
+- Project name:                       Testing the online store
+- Task:                                Testing the website with the address: https://askomdch.com/store/                      
+- People performing tests:             Adam P
+
+- Tested items:                        Testing the shopping cart function
+- Description:                         Testing the website for the ability to add and remove products from the cart.
+- Version: 1
 
 
 ## Adding a product to the basket 
