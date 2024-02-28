@@ -2,7 +2,7 @@
 
 - Nr document:                         1
 
-- Project name:                       Testing the online store
+- Project name:                        Testing the online store
 - Task:                                Testing the website with the address: https://askomdch.com/store/                      
 - People performing tests:             Adam P
 
