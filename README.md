@@ -22,6 +22,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - **HTML/CSS** basics
 - **Angular/JS** basics
 - **Playwright** basics
+- **Selenium** basics
 
 ## Courses 📓
 
