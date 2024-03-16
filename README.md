@@ -38,7 +38,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - [SQL](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/SQL.md)
 - [Bug report](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/bug_report.md)
 - [Test cases](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/test_cases.md)
-- [Test scenario Basket askomdch.com](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/test_scenario_Basket.md)
+- [Test scenario Basket askomdch](https://github.com/ios1111-creator/PORTFOLIO/blob/main/Quality%20Assurance/test_scenario_Basket.md)
 - [Test scenario Linkedin](https://docs.google.com/spreadsheets/d/15ilv9AC9Gy7umEKMptCQ4Nm0zZGEN_RG/edit?usp=drive_link&ouid=111482606423028952888&rtpof=true&sd=true)
 - A web application developed using HTML, CSS, and Angular
   - [Portfolio-Page](https://github.com/ios1111-creator/Portfolio-Page) https://adampawlik-portfolio.web.app/
