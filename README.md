@@ -23,6 +23,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - **Angular/JS** basics
 - **Playwright** basics
 - **Selenium** basics
+- **Postman** basics
 
 ## Courses 📓
 
@@ -32,6 +33,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/?couponCode=ST22FS22724)
 - [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/course/)
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+- [Postman](https://www.udemy.com/course/rest-api-testing-automation-using-postman/?couponCode=GENAISALE24)
 
 ## Samples 🔬
 
