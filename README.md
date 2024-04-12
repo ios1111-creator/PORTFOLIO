@@ -31,7 +31,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - [4-Day Marathon QA - GoIT](https://qa.m.goit.global/pl/)
 - [Playwright](https://jaktestowac.pl/course/playwright-wprowadzenie/)
 - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/?couponCode=ST22FS22724)
-- [Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/course/)
+- [Wprowadzenie do testowania oprogramowania](https://drive.google.com/file/d/1CKTBHIqRRhDD8J1EcfcGDSOcQk7uNpm5/view?usp=sharing)
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - [Postman](https://www.udemy.com/course/rest-api-testing-automation-using-postman/?couponCode=GENAISALE24)
 
