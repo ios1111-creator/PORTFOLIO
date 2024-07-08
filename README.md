@@ -34,6 +34,7 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
 - [Wprowadzenie do testowania oprogramowania](https://drive.google.com/file/d/1CKTBHIqRRhDD8J1EcfcGDSOcQk7uNpm5/view?usp=sharing)
 - [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - [Postman](https://www.udemy.com/course/rest-api-testing-automation-using-postman/?couponCode=GENAISALE24)
+- [COLT-1-2024 project: Trello REST API testing with Postman](https://github.com/ios1111-creator/COLT-1-2024)
 
 ## Samples 🔬
 
