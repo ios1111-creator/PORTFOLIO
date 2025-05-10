@@ -50,4 +50,11 @@ Hello, I'm Adam, a passionate software tester with a foundation in HTML, CSS, An
   - [Movies-app](https://github.com/ios1111-creator/Movies-app/tree/master/src)
 - Playwright
   - [demo-bank--tests](https://github.com/ios1111-creator/demo-bank--tests/tree/main/tests)
-    
+- ### 🍼 Mamusia App
+A web app designed for young mothers, built with Angular and Angular Material. Includes key components (home, login, register,dashboard) and QA documentation.
+  - 🔗 [GitHub Repository](https://github.com/ios1111-creator/mamusia-app)
+  - 🧪 Manual Tests: [`docs/manual-tests`](https://github.com/ios1111-creator/mamusia-app/tree/main/docs/manual-tests)
+  - 📘 User Guides: [`docs/user-guides`](https://github.com/ios1111-creator/mamusia-app/tree/main/docs/user-guides) 
+  - 🖼️ Screenshots: [`screenshots/`](https://github.com/ios1111-creator/mamusia-app/tree/main/screenshots)
+ - 🌐 Live Preview: *(in the future)*
+🔍 Technologies: Angular, Angular Material, TypeScript, Git, Markdown (for documentation), Jira (for task simulation)
